@@ -1,0 +1,48 @@
+ID - 11 ParentID - 1 Name - shape It is collection!
+
+ID - 202 ParentID - 20 Name - type Value - tetrahedron
+
+ID - 203 ParentID - 20 Name - vertices It is collection!
+
+ID - 3004 ParentID - 300 Name - point It is collection!
+
+ID - 40005 ParentID - 4000 Name - x Value - 1
+
+ID - 40006 ParentID - 4000 Name - y Value - 0
+
+ID - 40007 ParentID - 4000 Name - z Value - 0
+
+ID - 3008 ParentID - 300 Name -  point It is collection!
+
+ID - 40009 ParentID - 4000 Name - x Value - 0
+
+ID - 40010 ParentID - 4000 Name - y Value - 1
+
+ID - 40011 ParentID - 4000 Name - z Value - 0
+
+ID - 3012 ParentID - 300 Name -  point It is collection!
+
+ID - 40013 ParentID - 4000 Name - x Value - 0
+
+ID - 40014 ParentID - 4000 Name - y Value - 0
+
+ID - 40015 ParentID - 4000 Name - z Value - 1
+
+ID - 3016 ParentID - 300 Name -  point It is collection!
+
+ID - 40017 ParentID - 4000 Name - x Value - 1
+
+ID - 40018 ParentID - 4000 Name - y Value - 1
+
+ID - 40019 ParentID - 4000 Name - z Value - 1
+
+ID - 221 ParentID - 20 Name -  color It is collection!
+
+ID - 3022 ParentID - 300 Name - r Value - 0xFF
+
+ID - 3023 ParentID - 300 Name - g Value - 0x00
+
+ID - 3024 ParentID - 300 Name - b Value - 0x80
+
+ID - 3025 ParentID - 300 Name - alpha Value - 0x80
+
