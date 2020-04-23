@@ -39,6 +39,11 @@ public class Helper {
     static void analyseString(String str) {
         int lvl = level;
         String name, value;
+//проверяем строку, начинается ли она с цифры, если да, то выводим ошибку
+        if(Pattern.matches("\\b[0-9]",str)) {
+            tree.insert("НЕВЕРНЫЙ ФОРМАТ", "", -1);
+            return;
+        }
 //если в строке есть =, то разбиваем на ключ + значение
         if (str.indexOf('=') != -1) {
             String[] exp = str.split("=");
